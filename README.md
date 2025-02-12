@@ -1,5 +1,4 @@
 # realestate
-<!DOCTYPE html>
 <html>
 
 <head>
