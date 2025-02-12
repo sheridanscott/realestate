@@ -1,4 +1,32 @@
+.center {
+    display: grid;
+    grid-template-areas:
+        "logo"
+        "header"
+        "body";
+    grid-template-columns: 1fr;
+    place-items: center;
+    height: 100vh;
+}
+
+.center>div.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center>div.header {
+    grid-area: header;
+    text-align: center;
+}
+
+.center>div.body {
+    grid-area: body;
+    text-align: center;
+}
+
 p {
+    font-size: small;
     font-family: 'Metropolis', sans-serif;
     color: white;
 }
@@ -6,6 +34,7 @@ p {
 h3 {
     font-family: 'Metropolis', sans-serif;
     color: white;
+    text-align: center;
 }
 
 body {
