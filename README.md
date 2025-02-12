@@ -3,10 +3,10 @@
 <html>
 
 <head>
-  <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0aa647536c1a03cbd070164a5/d68f1a52c1d000250380cad9f.js");</script>
   <title>Redirecting to Aurora Property - Sheridan Scott</title>
   <!-- Redirecting to another page using meta tag -->
   <meta http-equiv="refresh" content="2; url =https://aurorapropertyrealestate.com.au/sheridan-scott/" />
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/0aa647536c1a03cbd070164a5/d68f1a52c1d000250380cad9f.js");</script>
 </head>
 
 <body>
