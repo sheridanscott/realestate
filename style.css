@@ -3,6 +3,11 @@ p {
     color: white;
 }
 
+h3 {
+    font-family: 'Metropolis', sans-serif;
+    color: white;
+}
+
 body {
     background-color: black;
 }
